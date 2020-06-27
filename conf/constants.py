@@ -1,5 +1,6 @@
+# -*-coding:utf-8-*-
+# from functools import reduce
 from functools import reduce
-
 SANCAI_jixiang = [1, 3, 5, 7, 8, 11, 13, 15, 16, 18, 21, 23, 24, 25, 31, 32, 33, 35, 37, 39, 41, 45, 47, 48, 52, 57, 61,
                   63,
                   65, 67, 68, 81]  # 吉祥运暗示数（代表健全,幸福,名誉等）
